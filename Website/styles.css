@@ -1,0 +1,32 @@
+#title {
+  text-align: center;
+}
+
+#clicks {
+  font-size: 20px;
+  text-align: center;
+}
+
+#clicker {
+  background-color: red;
+  margin:auto;
+  display:block;
+  width: 40% ;
+  height: 50px;
+}
+#kaufbutton {
+   background-color:green;
+   width:50px;
+}
+body {
+background-color: gray;
+}
+
+table {
+  width: 50%;
+  border: 1px solid black;
+  border-collapse: collapse ;
+}
+th, td{
+    padding: 5px;
+}
